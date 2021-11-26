@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "338655954869",
+    "project_id": "movetostore",
+    "storage_bucket": "movetostore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338655954869:android:ab382b8531416d0b987bfc",
+        "android_client_info": {
+          "package_name": "com.example.flutter_mts_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338655954869-pkpfbtlooic3ia2nbafkhvsldpmb3o28.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVDVdvhtFvsMDHzgoZKu3GGVlYZs1Vves"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338655954869-pkpfbtlooic3ia2nbafkhvsldpmb3o28.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
